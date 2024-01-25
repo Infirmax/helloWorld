@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">helloWorld</string>
+    <string name="hello_world_placeholder">Hello, World!</string>
+
 </resources>
